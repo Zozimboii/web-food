@@ -18,8 +18,8 @@ export default function Contact() {
           <Link href="/Contact"><div className="w-[130px] flex items-center justify-center "><div className="w-fit h-[3vh] hover:border-b-slate-500 hover:border-b-2">Contact</div></div></Link>
         </div>
       </div>
-      <div className="h-[92vh] bg-slate-500 flex justify-center items-center ">
-        <div className="bg-slate-400 flex justify-start items-center flex-col gap-5 w-4/6 h-full  pt-10">
+      <div className="h-full bg-[#000] flex justify-center items-center ">
+        <div className="bg-stone-500 flex justify-start items-center flex-col gap-5 w-4/6 h-full py-10">
           <div className="text-4xl font-bold">FOOD MENU</div>
           <div>อาหารดีๆ ต้องที่เมนูนี้เลย</div>
           <div className="w-full h-full">
